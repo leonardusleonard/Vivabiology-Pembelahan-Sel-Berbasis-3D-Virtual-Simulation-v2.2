@@ -1,0 +1,16 @@
+{
+  "name": "VIVABIOLOGY - Pembelahan Sel Berbasis 3D Virtual Simulation",
+  "short_name": "VIVABIOLOGY",
+  "description": "E-Modul Interaktif Biologi: Pembelahan Sel Berbasis 3D Virtual Simulation",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0f766e",
+  "lang": "id",
+  "icons": [
+    { "src": "logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "logo-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
